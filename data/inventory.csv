@@ -1,0 +1,5 @@
+product,predicted_demand,current_stock,safety_stock
+Tomatoes,75,30,10
+Potatoes,60,50,10
+Apples,45,60,10
+Onions,35,20,10

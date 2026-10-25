@@ -1,0 +1,11 @@
+day,product,price,promotion,sales
+Monday,Rice,55,0,120
+Tuesday,Rice,53,1,145
+Wednesday,Rice,55,0,110
+Thursday,Oil,140,1,90
+Friday,Oil,145,0,75
+Saturday,Soap,35,1,160
+Sunday,Soap,35,0,130
+Monday,Oil,138,1,95
+Tuesday,Soap,42,0,170
+Wednesday,Milk,48,1,180

@@ -1,0 +1,17 @@
+day,product,price,promotion,sales
+Monday,Rice,30,0,42
+Tuesday,Rice,30,0,45
+Wednesday,Rice,30,0,40
+Thursday,Rice,40,1,48
+Monday,Milk,30,0,35
+Tuesday,Milk,30,0,37
+Wednesday,Milk,40,1,34
+Thursday,Milk,40,1,39
+Monday,Oil,30,0,18
+Tuesday,Oil,40,1,20
+Wednesday,Oil,30,0,19
+Thursday,Oil,40,1,22
+Monday,Bread,40,1,38
+Tuesday,Bread,30,0,44
+Wednesday,Bread,40,1,53
+Thursday,Bread,30,0,29

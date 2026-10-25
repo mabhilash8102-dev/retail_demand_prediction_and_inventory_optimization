@@ -1,0 +1,30 @@
+﻿# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+/Demand_Prediction_and_Inventory_Optimization_for_Value_Retailers_Using_Linear_Algebra/
+/modules/module1_data_matrix/module2_demand_prediction_backup/
+*.bak
